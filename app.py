@@ -151,7 +151,7 @@ def main():
 
   #      st.write("AbdulPDF is a chatbot that can help you find information in your PDFs.")
         st.write("Upload your PDFs and ask questions about the content.")
-        st.write("Developed by CBTU, ver 1.0")        
+        st.write("Developed by Sarawut, ver 1.0")        
 
 if __name__ == "__main__":
     main()
